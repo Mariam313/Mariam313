@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Mariam313
-- 👀 I’m interested in personalized medicine, early diagnostics methods, novel drug discovery and development, or medical device innovation. 
+- 👀 I’m interested in new cellular and gene therapies, therapeutic proteins, personalized medicine, early diagnostics methods, novel drug discovery and development, or medical device innovation. 
 - 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on projects related to autism, anxiety, or addiction. 
+- 💞️ I’m looking to collaborate on projects related to neurodevelopmental disorders, disease and treatment biomarkers, and/or conditions affecting children. 
 - 📫 How to reach me : via email mariam_al@msn.com or linkedIn https://www.linkedin.com/in/mariam-al-haydari/
 
 <!---
